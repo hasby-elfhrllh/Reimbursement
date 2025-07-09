@@ -94,7 +94,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal.
 ### 1\. Clone Proyek
 
 ```bash
-git clone https://github.com/username/reimbursement-app.git
+[git clone https://github.com/username/reimbursement-app.git](https://github.com/hasby-elfhrllh/Reimbursement.git)
 cd reimbursement-app
 composer install
 ```
