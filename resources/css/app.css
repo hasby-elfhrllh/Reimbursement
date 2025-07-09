@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dt-search input[type="search"] {
+    border-radius: 0.5rem !important;
+    font-size: 0.875rem !important;
+    padding: 0.25rem 0.5rem !important;
+    height: auto !important;
+    width: 200px !important;
+    display: inline-block !important;
+    border: 1px solid #d1d5db !important;
+    box-shadow: none !important;
+    justify-content: flex-end !important;
+    text-align: right !important;
+}
